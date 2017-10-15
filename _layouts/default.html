@@ -39,8 +39,9 @@
     </script>
   {% endif %}
   <script>
-    var myLazyLoad = new LazyLoad({
-      elements_selector: "iframe"
+    new LazyLoad({
+      elements_selector: "iframe",
+      data_src: "src"
     });
   </script>
   </body>
