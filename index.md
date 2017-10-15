@@ -22,7 +22,7 @@ layout: default
 
 # 04 
 
-больше нет
+не будет больше тебя
 
 {% include youtube.html id="-GHvTbBWIvQ" %}
 
