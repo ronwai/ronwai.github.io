@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# 08
+
+{% include youtube.html id="Ji1p6zZate8" %}
+
+
+---
+
 # 07
 
 {% include youtube.html id="Un7uBqt1WHA" %}
