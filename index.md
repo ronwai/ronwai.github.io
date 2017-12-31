@@ -2,7 +2,8 @@
 layout: default
 ---
 # 2017
-## 23
+---
+
 ### dec 30
 
 {% include youtube.html id="-y2u5gDE40A" %}
@@ -10,7 +11,6 @@ layout: default
 
 ---
 
-## 22
 ### dec 23
 
 {% include youtube.html id="KJOIpqJ2VqA" %}
@@ -18,7 +18,6 @@ layout: default
 
 ---
 
-## 22
 ### dec 19
 
 {% include youtube.html id="yFBQA-jU9Bg" %}
@@ -26,14 +25,12 @@ layout: default
 
 ---
 
-## 20
 ### dec 12
 
 {% include spotify.html id="7MdKMflOlgNMVKjUkCdyYP" %}
 
 ---
 
-## 19
 ### dec 12
 
 {% include youtube.html id="wxGiyPEFGjQ" %}
@@ -41,7 +38,7 @@ layout: default
 
 ---
 
-## 18
+
 ### dec 10
 
 {% include youtube.html id="M2fqOHA3EHU" %}
@@ -49,7 +46,7 @@ layout: default
 
 ---
 
-## 17
+
 ### nov 29
 
 {% include youtube.html id="gBVpfjzelos" %}
@@ -57,7 +54,7 @@ layout: default
 
 ---
 
-## 16
+
 ### nov 29
 
 {% include youtube.html id="3X5stzhyS40" %}
@@ -65,7 +62,7 @@ layout: default
 
 ---
 
-## 15
+
 ### nov 27
 
 {% include youtube.html id="pvbY1Mqq-XI" %}
@@ -73,7 +70,7 @@ layout: default
 
 ---
 
-## 14
+
 ### nov 21
 
 {% include youtube.html id="yZFLA5CTYo8" %}
@@ -81,7 +78,7 @@ layout: default
 
 ---
 
-## 13 
+ 
 ### nov 19
 
 {% include youtube.html id="xxjspXAQRE0" %}
@@ -89,7 +86,7 @@ layout: default
 
 ---
 
-## 12 
+ 
 ### nov 11
 
 {% include youtube.html id="D0wDo3pQ7MQ" %}
@@ -97,7 +94,7 @@ layout: default
 
 ---
 
-## 11
+
 ### nov 9
 
 {% include youtube.html id="Run47hZ0_xM" %}
@@ -105,7 +102,7 @@ layout: default
 
 ---
 
-## 10 
+ 
 ### nov 9
 
 {% include youtube.html id="-T6qmZsX-_k" %}
@@ -113,7 +110,7 @@ layout: default
 
 ---
 
-## 09 
+ 
 ### nov 2
 
 {% include youtube.html id="Wy-v-FgiUD8" %}
@@ -121,7 +118,7 @@ layout: default
 
 ---
 
-## 08 
+ 
 ### oct 27
 
 {% include youtube.html id="Ji1p6zZate8" %}
@@ -129,7 +126,7 @@ layout: default
 
 ---
 
-## 07
+
 ### oct 18
 
 {% include youtube.html id="Un7uBqt1WHA" %}
@@ -137,7 +134,7 @@ layout: default
 
 ---
 
-## 06
+
 ### oct 16
 
 {% include youtube.html id="cs5QVxnqR4s" %}
@@ -145,7 +142,7 @@ layout: default
 
 ---
 
-## 05
+
 ### oct 15
 
 {% include youtube.html id="hd_IugTrpKg?start=120" %}
@@ -153,7 +150,7 @@ layout: default
 
 ---
 
-## 04
+
 ### oct 15
 
 {% include youtube.html id="rHF8M-TOcrA" %}
@@ -161,7 +158,7 @@ layout: default
 
 ---
 
-## 03
+
 ### oct 15
 
 не будет больше тебя
@@ -171,14 +168,14 @@ layout: default
 
 ---
 
-## 02
+
 ### oct 15
 
 {% include youtube.html id="dK2lY8VXw-o" %}
 
 ---
 
-## 01
+
 ### oct 15
 
 {% include youtube.html id="TlltwhBlfv4" %}
