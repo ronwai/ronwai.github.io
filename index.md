@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+### jan 15
+
+{% include youtube.html id="ch5lOo5cL1U" %}
+
+---
 # 2017
 ---
 
