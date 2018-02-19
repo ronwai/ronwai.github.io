@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+### feb 19
+
+{% include spotify.html id="4Ec5D3AEIOpxzvWvcc325i" %}
+
+---
 ### feb 17
 
 {% include youtube.html id="2dla9Qk1M1A" %}
