@@ -2,7 +2,9 @@
 layout: default
 ---
 ### mar 17
+
 hello folks - long time no see... now it's some time ))))
+
 {% include youtube.html id="0jcQn0M_JyU" %}
 
 ---
