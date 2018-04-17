@@ -3,7 +3,7 @@ layout: default
 ---
 ### apr 16
 
-{% include youtube.html id="iy76t_6bHZg&t=18" %}
+{% include youtube.html id="iy76t_6bHZg?start=18" %}
 
 ---
 
