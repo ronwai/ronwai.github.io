@@ -2,6 +2,13 @@
 layout: default
 ---
 
+### june 28
+
+{% include youtube.html id="OdKDGlnzI6U" %}
+
+---
+
+
 ### june 21
 
 {% include youtube.html id="r1vAY8zF3Gc" %}
