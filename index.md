@@ -4,7 +4,7 @@ layout: default
 
 ### aug 16
 
-{% include youtube.html id="KUyJSWRJgQA&t=597" %}
+{% include youtube.html id="KUyJSWRJgQA?start=597" %}
 
 ---
 
