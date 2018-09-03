@@ -2,6 +2,14 @@
 layout: default
 ---
 
+### sept 3
+
+once again
+
+{% include youtube.html id="RtrKiKsWZPM" %}
+
+---
+
 ### aug 28
 
 {% include youtube.html id="DbmzrZVQEn0?start=7" %}
