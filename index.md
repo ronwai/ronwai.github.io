@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+### sept 22
+
+{% include youtube.html id="i6y5HpALM2k" %}
+
+---
+
 ### sept 14
 
 {% include youtube.html id="yjbB5zFndNU" %}
