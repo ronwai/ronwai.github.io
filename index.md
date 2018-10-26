@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+### oct 26
+
+{% include youtube.html id="FL7xO92hRDI" %}
+
+---
+
 ### oct 15
 
 "things will be better in future times"
