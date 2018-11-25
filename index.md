@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+### nov 25
+
+{% include youtube.html id="38RMZ9H7Cg8" %}
+
+---
 
 ### nov 20
 
