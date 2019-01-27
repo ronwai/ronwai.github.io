@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+### jan 28
+
+{% include youtube.html id="rmegv-gRvz8" %}
+
+---
+
 ### jan 21
 
 {% include youtube.html id="VfeJRpEIqS4" %}
