@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### jan 28
+### jan 27
 
 {% include youtube.html id="rmegv-gRvz8" %}
 
