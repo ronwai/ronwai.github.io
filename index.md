@@ -131,7 +131,7 @@ layout: default
 
 ---
 
-
+<!--- digable plants - where im from --->
 ### nov 4
 
 {% include youtube.html id="SMvFRpMCyRI" %}
@@ -144,7 +144,7 @@ layout: default
 {% include youtube.html id="FL7xO92hRDI" %}
 
 ---
-
+<!--- jack j - thirstin --->
 ### oct 15
 
 "things will be better in future times"
@@ -280,7 +280,7 @@ once again
 {% include youtube.html id="iy76t_6bHZg?start=18" %}
 
 ---
-
+<!--- dionisio maio - dia ja manche --->
 ### apr 12
 
 {% include youtube.html id="PeagvnkTAvo" %}
