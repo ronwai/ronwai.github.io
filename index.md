@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<!-- broadcast - accidentals -->
+### may 3
+
+{% include youtube.html id="FPtjRm2Gh-0" %}
+
+---
+
 ### apr 19
 
 {% include youtube.html id="n2Xsu1q3cAw" %}
