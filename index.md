@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!-- steve lacy - out of my head -->
+### may 4
+
+{% include youtube.html id="uBPWVtwAaN4" %}
+
+---
 <!-- broadcast - accidentals -->
 ### may 3
 
