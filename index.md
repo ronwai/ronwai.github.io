@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<!-- kevin shields - city girl -->
+### may 30
+
+{% include youtube.html id="ZgAwnOD8dTc" %}
+
+---
+
 <!-- Homesickness · Tsegue-Maryam Guebrou -->
 ### may 13
 
