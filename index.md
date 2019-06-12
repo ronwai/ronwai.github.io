@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<!-- the sapphires - who do you love -->
+### june 12
+
+{% include youtube.html id="tmt6EekI-yw" %}
+
+---
 <!-- kevin shields - city girl -->
 ### may 30
 
