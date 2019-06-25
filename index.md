@@ -30,7 +30,7 @@ layout: default
 <!-- steve lacy - out of my head -->
 ### may 4
 
-{% include youtube.html id="uBPWVtwAaN4" %}
+{% include youtube.html id="FXWcQcsDAO4" %}
 
 ---
 <!-- broadcast - accidentals -->
@@ -166,7 +166,7 @@ layout: default
 <!--- digable plants - where im from --->
 ### nov 4
 
-{% include youtube.html id="SMvFRpMCyRI" %}
+{% include youtube.html id="sl-pjb7y3y0" %}
 
 ---
 
@@ -181,7 +181,7 @@ layout: default
 
 "things will be better in future times"
 
-{% include youtube.html id="JkfvlQ75WUg" %}
+{% include youtube.html id="6t_k7AfOGGM" %}
 
 ---
 
@@ -315,7 +315,7 @@ once again
 <!--- dionisio maio - dia ja manche --->
 ### apr 12
 
-{% include youtube.html id="PeagvnkTAvo" %}
+{% include youtube.html id="o6FtOd3Lckg" %}
 
 ---
 
