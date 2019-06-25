@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!-- jay dee - 42 -->
+### june 25
+
+{% include youtube.html id="szAJxnDxatg" %}
+
+---
 
 <!-- the sapphires - who do you love -->
 ### june 12
