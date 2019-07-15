@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<!-- mbv - sugar -->
+### july 15
+
+{% include youtube.html id="qmaSK1xF_RA" %}
+
+---
 <!-- jay dee - 42 -->
 ### june 25
 
