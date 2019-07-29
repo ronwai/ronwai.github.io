@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!-- it aint fair - ahead of our time -->
+### july 28
+
+{% include youtube.html id="vv4yOvrC0Bc" %}
+
+---
 
 <!-- mbv - sugar -->
 ### july 15
