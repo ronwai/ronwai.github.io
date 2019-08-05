@@ -6,6 +6,7 @@ layout: default
 ### aug 5
 
 stolen from dom
+
 {% include youtube.html id="o6XfeMypKc8" %}
 
 ---
