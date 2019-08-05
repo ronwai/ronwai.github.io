@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- Domenique Dumont - Le Soleil Dans Le Monde -->
+### aug 5
+
+stolen from dom
+{% include youtube.html id="o6XfeMypKc8" %}
+
+---
 <!-- it aint fair - ahead of our time -->
 ### july 28
 
