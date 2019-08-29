@@ -4,8 +4,6 @@ layout: default
 <!-- radio dept - this past week -->
 ### aug 29
 
-stolen from dom
-
 {% include youtube.html id="YuoUTqCBlUk" %}
 
 ---
