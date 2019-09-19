@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<!-- alex g - taking -->
+### sept 18
+
+
+{% include youtube.html id="C0TbnfmvqO0" %}
+
+---
 <!-- radio dept - this past week -->
 ### aug 29
 
