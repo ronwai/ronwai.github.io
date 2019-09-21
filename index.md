@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- st cristopher - more than a tremble -->
+### sept 21
+
+
+{% include youtube.html id="i0IYBVCNtns" %}
+
+---
 <!-- alex g - taking -->
 ### sept 18
 
