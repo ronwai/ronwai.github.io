@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<!-- destroyer - Tinseltown swimming in blood -->
+### oct 16
+
+
+{% include youtube.html id="h-N6jfO5NOQ" %}
+
+---
 <!-- lewis baloue - let's fall in love tonight -->
 ### oct 9
 
@@ -631,4 +638,3 @@ once again
 ### oct 15
 
 {% include youtube.html id="TlltwhBlfv4" %}
-
