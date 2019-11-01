@@ -80,7 +80,7 @@ stolen from dom
 <!-- kevin shields - city girl -->
 ### may 30
 
-{% include youtube.html id="ZgAwnOD8dTc" %}
+{% include youtube.html id="x-JQe3f6tc0" %}
 
 ---
 
