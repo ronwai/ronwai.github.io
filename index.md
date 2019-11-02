@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- lucki - 4 the betta  -->
+### nov 1
+
+
+{% include youtube.html id="7vyGnES3KlY" %}
+
+---
 <!-- loyle carner - ice water -->
 ### oct 31
 
