@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<!-- mega bog - she's history  -->
+### nov 3
+
+
+{% include youtube.html id="2VaQkp7N9P8" %}
+
+---
 <!-- lucki - 4 the betta  -->
 ### nov 1
 
