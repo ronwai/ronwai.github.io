@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<!-- matthew lee cothran - naomi y  -->
+### nov 9
+
+
+{% include youtube.html id="jcpN48Gs4f0" %}
+
+---
 <!-- sickboyrari - codeine tears in her fanta  -->
 ### nov 8
 
