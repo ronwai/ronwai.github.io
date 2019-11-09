@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+<!-- sickboyrari - codeine tears in her fanta  -->
+### nov 8
 
+
+{% include youtube.html id="H1SguK7rSTM" %}
+
+---
 <!-- mega bog - she's history  -->
 ### nov 3
 
