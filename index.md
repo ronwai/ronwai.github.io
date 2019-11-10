@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- jon hassell - dreaming  -->
+### nov 10
+
+
+{% include youtube.html id="q1lcJC9m8hY" %}
+
+---
 <!-- matthew lee cothran - naomi y  -->
 ### nov 9
 
