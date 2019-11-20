@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<!-- clarissa connelly - de novo  -->
+### nov 20
+
+
+{% include youtube.html id="R6FdV8stOsE" %}
+
+---
 <!-- jon hassell - dreaming  -->
 ### nov 10
 
