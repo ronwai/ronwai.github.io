@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<!-- mathew lee cothran and delaney mills - thru the wall (captain blood)  -->
+### nov 21
+
+
+{% include youtube.html id="YD6yXNyF9CU" %}
+
+---
 <!-- clarissa connelly - de novo  -->
 ### nov 20
 
