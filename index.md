@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- happy mondays - olive oil -->
+### nov 23
+
+
+{% include youtube.html id="ZuAbNqGkzSs" %}
+
+---
 <!-- julianna barwick - see, know  -->
 ### nov 22
 
