@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- julianna barwick - see, know  -->
-### nov 21
+### nov 22
 
 
 {% include youtube.html id="FAEgvZSHduc" %}
