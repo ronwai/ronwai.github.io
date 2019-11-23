@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+<!-- julianna barwick - see, know  -->
+### nov 21
 
+
+{% include youtube.html id="FAEgvZSHduc" %}
+
+---
 <!-- mathew lee cothran and delaney mills - better off alone  -->
 ### nov 21
 
