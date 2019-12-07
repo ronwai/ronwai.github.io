@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+<!-- severed heads - lamborghini -->
+### dec 7
 
+
+{% include youtube.html id="zaOAEstv0R4" %}
+
+---
 <!-- happy mondays - olive oil -->
 ### nov 23
 
