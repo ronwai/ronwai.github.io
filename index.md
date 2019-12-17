@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<!-- smokey robinson - baby come close -->
+### dec 17
+
+
+{% include youtube.html id="ByUbWhB-S50" %}
+
+---
 <!-- severed heads - lamborghini -->
 ### dec 7
 
@@ -199,7 +207,8 @@ stolen from dom
 
 ### mar 6
 
-{% include youtube.html id="WeuZYO1avRU" %}
+<!-- mos def - pistola -->
+{% include youtube.html id="IUIIM6jeELQ" %}
 
 ---
 <!-- solange - binz -->
@@ -323,10 +332,10 @@ stolen from dom
 {% include youtube.html id="Nv2GgV34qIg" %}
 
 ---
-
+<!--- dj poolboi - like we were the last two people --->
 ### sept 22
 
-{% include youtube.html id="i6y5HpALM2k" %}
+{% include youtube.html id="_6_Sp-YFyn0" %}
 
 ---
 
@@ -376,10 +385,10 @@ once again
 
 ---
 
-
+<!--- pizzicato five - baby love child --->
 ### aug 1
 
-{% include youtube.html id="lB-2IzAZk90" %}
+{% include youtube.html id="vJTCQJa8NBs" %}
 
 ---
 
