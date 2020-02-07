@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<!-- lightspeed champion - he's the great impostor -->
+### feb 6, 2020
+
+
+{% include youtube.html id="vPsq7xohAXc" %}
+
+---
+
 <!-- blood orange - the complete knock -->
 ### jan 11
 
