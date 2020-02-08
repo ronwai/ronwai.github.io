@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<!-- okay kaya - mother nature's bitch -->
+### feb 8
+
+
+{% include youtube.html id="qx5BvjMdyOI" %}
+
+---
 <!-- lightspeed champion - he's the great impostor -->
 ### feb 6
 
