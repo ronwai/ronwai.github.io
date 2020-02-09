@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- cindy lee - heavy metal -->
+### feb 9
+
+{% include youtube.html id="N9GCxAuv1_8" %}
+
+---
 <!-- okay kaya - mother nature's bitch -->
 ### feb 8
 
