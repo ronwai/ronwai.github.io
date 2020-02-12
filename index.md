@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- omar s - here's your trance now dance -->
+### feb 12
+
+{% include youtube.html id="hMEy4IFzsFM" %}
+
+---
 <!-- Alcione - Samba de Roda (Abílio Manoel) -->
 ### feb 11
 
