@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- laurence guy - the sun is warm and directly above you -->
+### feb 24
+
+{% include youtube.html id="fakEz3i4N1Q" %}
+
+---
 <!-- omar s - here's your trance now dance -->
 ### feb 12
 
