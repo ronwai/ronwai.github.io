@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- mall grab - leaving tokyo -->
+### apr 4
+
+{% include youtube.html id="hsjD-3NgMXY" %}
+
+---
 <!-- jpegmafia - bald! -->
 ### mar 1
 
