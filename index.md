@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- tst kelly lee owens - night -->
+<!-- kelly lee owens - night -->
 ### apr 30
 
 {% include youtube.html id="29qMlvTXhZI" %}
