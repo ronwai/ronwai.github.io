@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <!-- kelly lee owens - night -->
 ### apr 30
 
@@ -791,4 +787,3 @@ once again
 ### oct 15
 
 {% include youtube.html id="TlltwhBlfv4" %}
-test
