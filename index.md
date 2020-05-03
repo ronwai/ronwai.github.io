@@ -1,9 +1,3 @@
-<!-- sean moonlight -->
-### may 03
-
-{% include youtube.html id="8fY8m65wD3U" %}
-
----
 <!-- kelly lee owens - night -->
 ### apr 30
 
