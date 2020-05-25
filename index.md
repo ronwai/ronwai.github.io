@@ -1,3 +1,9 @@
+<!-- george clanton - innocence -->
+### may 25
+
+{% include youtube.html id="_RtzruoEtpA" %}
+
+---
 <!-- pansyboyshssc -->
 ### may 15
 
