@@ -1,3 +1,9 @@
+<!-- sporting life - unity across difference -->
+### may 30
+
+{% include youtube.html id="ULs3F_EN8R4" %}
+
+---
 <!-- george clanton - innocence -->
 ### may 25
 
