@@ -1,3 +1,9 @@
+<!-- towa tei - technova -->
+### jun 6
+
+{% include youtube.html id="sq66jYoFx_c" %}
+
+---
 <!-- sporting life - unity across difference -->
 ### may 30
 
