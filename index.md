@@ -1,7 +1,3 @@
-<!-- a -->
-### jun 8
-{% include youtube.html id="b" %}
----
 <!-- towa tei - technova -->
 ### jun 6
 
