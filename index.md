@@ -1,3 +1,7 @@
+<!-- cocteau twins - orange appled -->
+### jun 18
+{% include youtube.html id="syCbpUdi1zA" %}
+---
 <!-- towa tei - technova -->
 ### jun 6
 
