@@ -1,3 +1,7 @@
+<!-- electrelane - birds -->
+### jul 3
+{% include youtube.html id="Geg1q_p3oOA" %}
+---
 <!-- cocteau twins - orange appled -->
 ### jun 18
 {% include youtube.html id="syCbpUdi1zA" %}
