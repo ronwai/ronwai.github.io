@@ -1,3 +1,7 @@
+<!-- clinic - distortions -->
+### jul 10
+{% include youtube.html id="Ii4lkM1pLjQ" %}
+---
 <!-- electrelane - birds -->
 ### jul 3
 {% include youtube.html id="Geg1q_p3oOA" %}
