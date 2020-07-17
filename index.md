@@ -1,3 +1,7 @@
+<!-- machine girl - ghost -->
+### jul 17
+{% include youtube.html id="UmDeAydid7o" %}
+---
 <!-- clinic - distortions -->
 ### jul 10
 {% include youtube.html id="Ii4lkM1pLjQ" %}
