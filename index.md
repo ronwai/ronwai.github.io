@@ -1,3 +1,7 @@
+<!-- judy collins - in my life -->
+### jul 23
+{% include youtube.html id="lXCwR3cbvNY" %}
+---
 <!-- machine girl - ghost -->
 ### jul 17
 {% include youtube.html id="UmDeAydid7o" %}
