@@ -1,3 +1,7 @@
+<!-- shinichi atobe - yes -->
+### jul 31
+{% include youtube.html id="5fD7R4qlUfQ" %}
+---
 <!-- judy collins - in my life -->
 ### jul 23
 {% include youtube.html id="lXCwR3cbvNY" %}
