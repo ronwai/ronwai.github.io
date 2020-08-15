@@ -1,3 +1,7 @@
+<!-- Abdallah Ag Oumbadougou - Anou Malane -->
+### aug 15
+{% include youtube.html id="BiHbnoQl6_g" %}
+---
 <!-- shinichi atobe - yes -->
 ### jul 31
 {% include youtube.html id="5fD7R4qlUfQ" %}
