@@ -1,3 +1,7 @@
+<!-- shed - fluid 67 -->
+### aug 21
+{% include youtube.html id="BcPjZUNxf1I" %}
+---
 <!-- Abdallah Ag Oumbadougou - Anou Malane -->
 ### aug 15
 {% include youtube.html id="BiHbnoQl6_g" %}
