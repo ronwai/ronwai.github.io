@@ -1,3 +1,7 @@
+<!-- Boan - mentiras -->
+### sep 3
+{% include youtube.html id="EMLao5NmqqA" %}
+---
 <!-- shed - fluid 67 -->
 ### aug 21
 {% include youtube.html id="BcPjZUNxf1I" %}
