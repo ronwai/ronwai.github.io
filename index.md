@@ -1,3 +1,7 @@
+<!-- Spiritualized - 200 bars -->
+### sep 12
+{% include youtube.html id="JFpB5t7JOoc" %}
+---
 <!-- Boan - mentiras -->
 ### sep 3
 {% include youtube.html id="EMLao5NmqqA" %}
