@@ -1,3 +1,7 @@
+<!-- Thomas mapfumo - hupenyu hwangu -->
+### oct 27
+{% include youtube.html id="k8VRxmJ7hbQ" %}
+---
 <!-- Charlie megira - malibu  -->
 ### oct 5
 {% include youtube.html id="VEqmwyxjDuE" %}
