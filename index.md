@@ -1,3 +1,7 @@
+<!-- Bored lord in the deep end -->
+### oct 31
+{% include youtube.html id="2Av9PNrNHFg" %}
+---
 <!-- Thomas mapfumo - hupenyu hwangu -->
 ### oct 27
 {% include youtube.html id="k8VRxmJ7hbQ" %}
