@@ -1,3 +1,7 @@
+<!-- afx - w32.deadcode.a -->
+### nov 20
+{% include youtube.html id="R2F-GF3Hx7s" %}
+---
 <!-- idris muhammad - wander -->
 ### nov 20
 {% include youtube.html id="8uuIiKVwd-8" %}
