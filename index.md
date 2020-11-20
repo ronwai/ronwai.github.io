@@ -1,3 +1,7 @@
+<!-- lukid - laroche -->
+### nov 20
+{% include youtube.html id="Tvo-4CYMmEI" %}
+---
 <!-- afx - w32.deadcode.a -->
 ### nov 20
 {% include youtube.html id="R2F-GF3Hx7s" %}
