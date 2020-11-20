@@ -1,3 +1,7 @@
+<!-- bebeto - cri criola -->
+### nov 20
+{% include youtube.html id="U4k_0gi7-bM" %}
+---
 <!-- lukid - laroche -->
 ### nov 20
 {% include youtube.html id="Tvo-4CYMmEI" %}
