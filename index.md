@@ -1,3 +1,7 @@
+<!-- joe cuba sextet - mujer divina -->
+### nov 20
+{% include youtube.html id="HfscIpSxZ7Y" %}
+---
 <!-- Bored lord in the deep end -->
 ### oct 31
 {% include youtube.html id="2Av9PNrNHFg" %}
