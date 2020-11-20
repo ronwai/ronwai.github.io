@@ -1,3 +1,7 @@
+<!-- idris muhammad - wander -->
+### nov 20
+{% include youtube.html id="8uuIiKVwd-8" %}
+---
 <!-- joe cuba sextet - mujer divina -->
 ### nov 20
 {% include youtube.html id="HfscIpSxZ7Y" %}
