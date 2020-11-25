@@ -1,3 +1,7 @@
+<!-- zazou bikaye - nostalgie -->
+### nov 25
+{% include youtube.html id="10J4-saknbI" %}
+---
 <!-- laurent garnier - orgasm -->
 ### nov 23
 {% include youtube.html id="HLe8WLi6RVI" %}
