@@ -1,3 +1,7 @@
+<!-- don brown - dont lose your love -->
+### dec 14
+{% include youtube.html id="EEqCjKBTMKs" %}
+---
 <!-- zazou bikaye - nostalgie -->
 ### nov 25
 {% include youtube.html id="10J4-saknbI" %}
