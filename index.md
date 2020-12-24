@@ -1,3 +1,7 @@
+<!-- Black Five - Ea Kgiba Ngoale -->
+### dec 24
+{% include youtube.html id="w8n9eQ6fsQo" %}
+---
 <!-- don brown - dont lose your love -->
 ### dec 14
 {% include youtube.html id="EEqCjKBTMKs" %}
