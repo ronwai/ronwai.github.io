@@ -1,3 +1,7 @@
+<!-- errol dunkley - darling ooh -->
+### dec 31
+{% include youtube.html id="5pHqfgnQQaA" %}
+---
 <!-- Black Five - Ea Kgiba Ngoale -->
 ### dec 24
 {% include youtube.html id="w8n9eQ6fsQo" %}
