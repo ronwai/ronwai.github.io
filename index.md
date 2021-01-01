@@ -1,3 +1,7 @@
+<!-- DOOM - rhinestone cowboy -->
+### jan 1
+{% include youtube.html id="s4iR668Ki3I" %}
+---
 <!-- errol dunkley - darling ooh -->
 ### dec 31
 {% include youtube.html id="5pHqfgnQQaA" %}
