@@ -1,3 +1,7 @@
+<!-- lapti - first date -->
+### jan 20
+{% include youtube.html id="AFm51W6vDlU" %}
+---
 <!-- DOOM - rhinestone cowboy -->
 ### jan 1
 {% include youtube.html id="s4iR668Ki3I" %}
