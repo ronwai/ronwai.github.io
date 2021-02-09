@@ -1,3 +1,7 @@
+<!-- sam gendel - eternal loop -->
+### feb 9
+{% include youtube.html id="noulUaPGT6w" %}
+---
 <!-- lapti - first date -->
 ### jan 20
 {% include youtube.html id="AFm51W6vDlU" %}
