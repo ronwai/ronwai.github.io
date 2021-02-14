@@ -1,3 +1,7 @@
+<!-- julian jonah - jealous & lies -->
+### feb 14
+{% include youtube.html id="2E7dOvNZIJ8" %}
+---
 <!-- sam gendel - eternal loop -->
 ### feb 9
 {% include youtube.html id="noulUaPGT6w" %}
