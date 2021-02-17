@@ -1,7 +1,3 @@
-<!-- dj crystl - paradise -->
-### feb 17
-{% include youtube.html id="ugyeLYQQMXg&t=12" %}
----
 <!-- julian jonah - jealous & lies -->
 ### feb 14
 {% include youtube.html id="2E7dOvNZIJ8" %}
