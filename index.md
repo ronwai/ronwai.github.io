@@ -1,3 +1,7 @@
+<!-- chapterhouse - mesmerise -->
+### mar 25
+{% include youtube.html id="Ecm0BVOt62A" %}
+---
 <!-- sky, ocean, weapons - masahiro takahashi & rose melberg -->
 ### mar 10
 {% include youtube.html id="MpHoXlN1F90" %}
