@@ -1,3 +1,7 @@
+<!-- emerson kitamura - the vanishing red bus -->
+### apr 1
+{% include youtube.html id="KxsctaOFZHA" %}
+---
 <!-- chapterhouse - mesmerise -->
 ### mar 25
 {% include youtube.html id="Ecm0BVOt62A" %}
