@@ -1,3 +1,7 @@
+<!-- salon music - wanna be tied -->
+### apr 6
+{% include youtube.html id="I3HRubq9Txs" %}
+---
 <!-- emerson kitamura - the vanishing red bus -->
 ### apr 1
 {% include youtube.html id="KxsctaOFZHA" %}
