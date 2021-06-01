@@ -1,3 +1,7 @@
+<!-- Soukous Stars - Marcory Gazoil -->
+### jun 1
+{% include youtube.html id="8pk_LlbIOus" %}
+---
 <!-- love & unity - just dont care -->
 ### may 7
 {% include youtube.html id="HDtMUYqBzrY" %}
