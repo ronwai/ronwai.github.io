@@ -1,3 +1,7 @@
+<!-- C.K. - Cough Transexpress Club Mix -->
+### jun 21
+{% include youtube.html id="SsbCoIQn3rQ" %}
+---
 <!-- peaking lights - the otherside -->
 ### jun 14
 {% include youtube.html id="VImpS-OP708" %}
