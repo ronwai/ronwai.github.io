@@ -1,3 +1,7 @@
+<!-- vumani - black mampatile -->
+### jul 9
+{% include youtube.html id="2_6t7Ga2F58" %}
+---
 <!-- C.K. - Cough Transexpress Club Mix -->
 ### jun 21
 {% include youtube.html id="SsbCoIQn3rQ" %}
