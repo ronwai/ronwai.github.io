@@ -1,3 +1,7 @@
+<!-- FACT 2 · POiSON GiRL FRiEND -->
+### aug 17
+{% include youtube.html id="eUqgYvaBlXc" %}
+---
 <!-- vumani - black mampatile -->
 ### jul 9
 {% include youtube.html id="2_6t7Ga2F58" %}
