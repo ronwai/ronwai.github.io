@@ -1,3 +1,7 @@
+<!-- The Zenmenn - Homage To A Friendship - feat. John Moods -->
+### aug 27
+{% include youtube.html id="mEMl8LR04m8" %}
+---
 <!-- FACT 2 · POiSON GiRL FRiEND -->
 ### aug 17
 {% include youtube.html id="eUqgYvaBlXc" %}
