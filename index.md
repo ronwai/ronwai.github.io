@@ -1,3 +1,7 @@
+<!-- brian eno - just another day -->
+### sep 2
+{% include youtube.html id="8oxNGbP0HFI" %}
+---
 <!-- The Zenmenn - Homage To A Friendship - feat. John Moods -->
 ### aug 27
 {% include youtube.html id="mEMl8LR04m8" %}
