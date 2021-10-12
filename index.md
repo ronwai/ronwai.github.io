@@ -1,3 +1,7 @@
+<!-- soichi terada - time station -->
+### oct 12
+{% include youtube.html id="qlUazIkzin4" %}
+---
 <!-- brian eno - just another day -->
 ### sep 2
 {% include youtube.html id="8oxNGbP0HFI" %}
