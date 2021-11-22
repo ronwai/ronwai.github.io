@@ -1,3 +1,7 @@
+<!-- roberto sandrini - occhi su di me -->
+### nov 22
+{% include youtube.html id="cIbGcvLkriY" %}
+---
 <!-- soichi terada - time station -->
 ### oct 12
 {% include youtube.html id="qlUazIkzin4" %}
