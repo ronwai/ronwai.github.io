@@ -1,7 +1,3 @@
-<!-- gazzi - everyday -->
-### feb 4
-{% include youtube.html id="4xPQ9YqM7TE" %}
----
 <!-- unreal - very personal -->
 ### nov 29
 {% include youtube.html id="y4D_Q165r3o" %}
