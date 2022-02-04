@@ -1,3 +1,7 @@
+<!-- gazzi everyday -->
+### feb 4
+{% include youtube.html id="4xPQ9YqM7TE" %}
+---
 ---
 # 2022
 ---
