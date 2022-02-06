@@ -1,3 +1,7 @@
+<!-- narciss + dj heartstring - juicy -->
+### feb 6
+{% include youtube.html id="NcftIL_bhdQ" %}
+---
 <!-- gazzi everyday -->
 ### feb 4
 {% include youtube.html id="4xPQ9YqM7TE" %}
