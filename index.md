@@ -1,3 +1,7 @@
+<!-- fitzgerald flyer & boyce - only love -->
+### feb 14
+{% include youtube.html id="16EicSEyYIQ" %}
+---
 <!-- narciss + dj heartstring - juicy -->
 ### feb 6
 {% include youtube.html id="NcftIL_bhdQ" %}
