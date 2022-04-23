@@ -1,3 +1,7 @@
+<!-- enjoy - lounge thoughts -->
+### apr 23
+{% include youtube.html id="FjRenROSzoo" %}
+---
 <!-- jack j - the only way -->
 ### apr 7
 {% include youtube.html id="EnvHnz0mMIE" %}
