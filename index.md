@@ -1,3 +1,7 @@
+<!-- loose ends - love controvery yesternow mix -->
+### may 29
+{% include youtube.html id="eNKY3iiLcO0" %}
+---
 <!-- skys the limit - dont be afraid inst -->
 ### may 28
 {% include youtube.html id="Z2CIK9BPJOc" %}
