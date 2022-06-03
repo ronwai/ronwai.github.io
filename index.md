@@ -1,3 +1,7 @@
+<!-- ccfx - ode mix -->
+### jun 3
+{% include youtube.html id="sbUP5nXlkOo" %}
+---
 <!-- loose ends - love controvery yesternow mix -->
 ### may 29
 {% include youtube.html id="eNKY3iiLcO0" %}
