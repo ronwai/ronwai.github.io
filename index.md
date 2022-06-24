@@ -1,3 +1,7 @@
+<!-- xtc - wonderland -->
+### jun 24
+{% include youtube.html id="bv_j2yH4x1c" %}
+---
 <!-- ccfx - ode mix -->
 ### jun 3
 {% include youtube.html id="sbUP5nXlkOo" %}
