@@ -1,3 +1,7 @@
+<!-- tase - analyze -->
+### jul 29
+{% include youtube.html id="Xz1QQaD5oTM" %}
+---
 <!-- xtc - wonderland -->
 ### jun 24
 {% include youtube.html id="bv_j2yH4x1c" %}
