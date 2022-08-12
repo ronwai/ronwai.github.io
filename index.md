@@ -1,3 +1,7 @@
+<!-- dj qu - untitled high life -->
+### aug 12
+{% include youtube.html id="rJ8D8cqpFV4" %}
+---
 <!-- tase - analyze -->
 ### jul 29
 {% include youtube.html id="Xz1QQaD5oTM" %}
