@@ -1,3 +1,7 @@
+<!-- Filhos de gandhi - Gilberto  -->
+### aug 27
+{% include youtube.html id="xc-KhgnmjSA" %}
+---
 <!-- dj qu - untitled high life -->
 ### aug 12
 {% include youtube.html id="rJ8D8cqpFV4" %}
