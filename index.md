@@ -1,3 +1,7 @@
+<!-- 111loggedin - dido -->
+### oct 14
+{% include soundcloud.html id="1157889748" %}
+---
 <!-- womack & womack - love's calling -->
 ### sep 16
 {% include youtube.html id="Bd_2S8m6mvM" %}
