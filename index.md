@@ -1,7 +1,3 @@
-<!-- 111loggedin - roxy -->
-### oct 14
-{% include .html id="https://soundcloud.com/111loggedin/25-dido" %}
----
 <!-- womack & womack - love's calling -->
 ### sep 16
 {% include youtube.html id="Bd_2S8m6mvM" %}
