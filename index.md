@@ -1,3 +1,7 @@
+<!-- stoopid dumb gabbanaganza -->
+### oct 14
+{% include bandcamp.html id="1425218465" %}
+---
 <!-- 111loggedin - dido -->
 ### oct 14
 {% include soundcloud.html id="1157889748" %}
