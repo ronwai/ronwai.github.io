@@ -1,3 +1,7 @@
+<!-- lil ugly mane - pink & rose -->
+### oct 18
+{% include youtube.html id="bds-_NCMqDE" %}
+---
 <!-- stoopid dumb gabbanaganza -->
 ### oct 14
 {% include bandcamp.html id="1425218465" %}
