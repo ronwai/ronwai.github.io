@@ -1,3 +1,7 @@
+<!-- andre gibson - im falling -->
+### oct 19
+{% include youtube.html id="gf_lJds-z3U" %}
+---
 <!-- lil ugly mane - pink & rose -->
 ### oct 18
 {% include youtube.html id="bds-_NCMqDE" %}
