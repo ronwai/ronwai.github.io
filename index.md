@@ -1,3 +1,7 @@
+<!-- ride - bitch ass darius -->
+### nov 9
+{% include youtube.html id="hxduCv_-laY" %}
+---
 <!-- joyce moreno - feminina -->
 ### nov 5
 {% include youtube.html id="haUAjE6b4d4" %}
