@@ -1,3 +1,7 @@
+<!-- happy mondays - this feeling -->
+### nov 20
+{% include youtube.html id="lyoxkYyEoms" %}
+---
 <!-- ride - bitch ass darius -->
 ### nov 9
 {% include youtube.html id="hxduCv_-laY" %}
