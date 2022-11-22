@@ -1,3 +1,7 @@
+<!-- cochran & winick - sofia loren -->
+### nov 22
+{% include youtube.html id="5HjE9dVYPXM" %}
+---
 <!-- happy mondays - this feeling -->
 ### nov 20
 {% include youtube.html id="lyoxkYyEoms" %}
