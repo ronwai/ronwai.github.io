@@ -1,3 +1,7 @@
+<!-- gilberto gil - marina -->
+### dec 2
+{% include youtube.html id="K2ynJstfR2E" %}
+---
 <!-- cochran & winick - sofia loren -->
 ### nov 22
 {% include youtube.html id="5HjE9dVYPXM" %}
