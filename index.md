@@ -1,3 +1,7 @@
+<!-- the cusp - bloody rain -->
+### dec 27
+{% include youtube.html id="jz8QIqn_pSI" %}
+---
 <!-- ranil - baila bonita -->
 ### dec 21
 {% include youtube.html id="A_6JbOOuRNg" %}
