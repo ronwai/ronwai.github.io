@@ -1,3 +1,7 @@
+<!-- super eccentric theatre oh les beaux japonais -->
+### jan 8
+{% include youtube.html id="psftJlmuBuQ" %}
+---
 <!-- the cusp - bloody rain -->
 ### dec 27
 {% include youtube.html id="jz8QIqn_pSI" %}
