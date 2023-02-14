@@ -1,3 +1,7 @@
+<!-- nutcase & papachubbah - u do -->
+### feb 14
+{% include youtube.html id="poi_BE3D3yM" %}
+---
 <!-- super eccentric theatre oh les beaux japonais -->
 ### jan 8
 {% include youtube.html id="psftJlmuBuQ" %}
