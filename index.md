@@ -1,3 +1,7 @@
+<!-- john carroll kirby - sun go down -->
+### jun 4
+{% include youtube.html id="_WMlUOFxPNY" %}
+---
 <!-- pender street - our time -->
 ### may 30
 {% include youtube.html id="QgzyIpgzAQU" %}
