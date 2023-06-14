@@ -52,11 +52,11 @@
 ---
 <!-- ranil - baila bonita -->
 ### dec 21
-{% include youtube.html id="A_6JbOOuRNg" %}
+{% include youtube.html id="t-7tQogKmPw" %}
 ---
 <!-- iria - ginpa~silver~wave -->
 ### dec 14
-{% include youtube.html id="A5p_RGNyqa4" %}
+{% include youtube.html id="XEc10enpIfM" %}
 ---
 <!-- gilberto gil - marina -->
 ### dec 2
@@ -255,7 +255,7 @@
 ---
 <!-- dj kemit - forbidden love -->
 ### feb 23
-{% include youtube.html id="2M1jrlOy0B8" %}
+{% include youtube.html id="HACB_wzICvM" %}
 ---
 <!-- dj crystl - paradise -->
 ### feb 17
@@ -283,7 +283,7 @@
 ---
 <!-- Black Five - Ea Kgiba Ngoale -->
 ### dec 24
-{% include youtube.html id="w8n9eQ6fsQo" %}
+{% include soundcloud.html id="215357163" %}
 ---
 <!-- don brown - dont lose your love -->
 ### dec 14
@@ -610,7 +610,7 @@ stolen from dom
 <!-- mbv - sugar -->
 ### july 15
 
-{% include youtube.html id="qmaSK1xF_RA" %}
+{% include youtube.html id="8nmFAbpZoPY" %}
 
 ---
 <!-- jay dee - 42 -->
@@ -648,7 +648,7 @@ stolen from dom
 <!-- broadcast - accidentals -->
 ### may 3
 
-{% include youtube.html id="FPtjRm2Gh-0" %}
+{% include youtube.html id="RoiubPCKN3U" %}
 
 ---
 
@@ -715,13 +715,13 @@ stolen from dom
 
 ### jan 27
 
-{% include youtube.html id="rmegv-gRvz8" %}
+{% include youtube.html id="jLJCLRdHiOo" %}
 
 ---
 
 ### jan 21
 
-{% include youtube.html id="VfeJRpEIqS4" %}
+{% include youtube.html id="tYxXlY8RFlg" %}
 
 ---
 
@@ -733,7 +733,7 @@ stolen from dom
 
 ### jan 1
 
-{% include youtube.html id="08zMGDJzZA0" %}
+{% include youtube.html id="pqgxY7hp6nQ" %}
 
 ---
 # 2018
@@ -815,12 +815,12 @@ stolen from dom
 {% include youtube.html id="yjbB5zFndNU" %}
 
 ---
-
+<!--- nina simone - you can have him 1959 live in nyc --->
 ### sept 3
 
 once again
 
-{% include youtube.html id="RtrKiKsWZPM" %}
+{% include youtube.html id="PaTiALBpeNQ" %}
 
 ---
 
@@ -931,10 +931,10 @@ once again
 {% include youtube.html id="o6FtOd3Lckg" %}
 
 ---
-
+<!--- marcos valle - Mais Do Que Valsa --->
 ### apr 11
 
-{% include youtube.html id="3suSi3YJiP0" %}
+{% include youtube.html id="qaPBURMPcdQ" %}
 
 ---
 
@@ -972,7 +972,7 @@ once again
 
 ### feb 19
 
-{% include spotify.html id="4Ec5D3AEIOpxzvWvcc325i" %}
+{% include youtube.html id="9T3bYl5NmvE" %}
 
 ---
 ### feb 17
@@ -1064,7 +1064,7 @@ once again
 
 ### nov 29
 
-{% include youtube.html id="gBVpfjzelos" %}
+{% include youtube.html id="29cSM7CvS_I" %}
 
 
 ---
