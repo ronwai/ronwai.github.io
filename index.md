@@ -1,3 +1,7 @@
+<!-- k-lone - love me a little -->
+### jun 15
+{% include youtube.html id="gJftloLIgE4" %}
+---
 <!-- voltknapper 6 - triple h -->
 ### jun 14
 {% include youtube.html id="Onhq2xx7DIo" %}
