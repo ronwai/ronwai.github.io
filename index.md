@@ -1,3 +1,7 @@
+<!-- how to feed a sea monkey land of loops -->
+### jul 20
+{% include youtube.html id="oWZgYNaUPYI" %}
+---
 <!-- natural wonder beauty concept -->
 ### jul 18
 {% include youtube.html id="aXpBei-EjO8" %}
