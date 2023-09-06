@@ -1,3 +1,7 @@
+<!-- eddie palmieri - campesino -->
+### sep 6
+{% include youtube.html id="fpGm7s8-IxE" %}
+---
 <!-- top cat - bunn the sensi -->
 ### aug 10
 {% include youtube.html id="XnFZs6D7Tp4" %}
