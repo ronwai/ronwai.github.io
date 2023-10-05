@@ -1,3 +1,7 @@
+<!-- tara clerkin trio turning ground -->
+### oct 5
+{% include youtube.html id="zPcP3YZZRnQ" %}
+---
 <!-- eddie palmieri - campesino -->
 ### sep 6
 {% include youtube.html id="fpGm7s8-IxE" %}
