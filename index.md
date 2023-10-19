@@ -1,3 +1,7 @@
+<!-- tara clerkin - marble walls -->
+### oct 19
+{% include youtube.html id="e66r1HgCUMI" %}
+---
 <!-- tara clerkin trio turning ground -->
 ### oct 5
 {% include youtube.html id="zPcP3YZZRnQ" %}
