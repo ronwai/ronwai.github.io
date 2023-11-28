@@ -1,3 +1,7 @@
+<!-- steve reise - electric counterpoint iii fast -->
+### nov 28
+{% include youtube.html id="UStCXLNVtGY" %}
+---
 <!-- Igirisu No Koucya - The Air Music International -->
 ### nov 28
 {% include youtube.html id="bYmaSfXZM6g" %}
