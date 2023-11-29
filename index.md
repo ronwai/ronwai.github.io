@@ -1,3 +1,7 @@
+<!-- belchior - mote e glosa -->
+### nov 29
+{% include youtube.html id="TcKrzKxf_7U" %}
+---
 <!-- steve reise - electric counterpoint iii fast -->
 ### nov 28
 {% include youtube.html id="UStCXLNVtGY" %}
