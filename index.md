@@ -1,3 +1,7 @@
+<!-- orlandivo - disse me disse -->
+### nov 30
+{% include youtube.html id="usswA5c4y5I" %}
+---
 <!-- belchior - mote e glosa -->
 ### nov 29
 {% include youtube.html id="TcKrzKxf_7U" %}
