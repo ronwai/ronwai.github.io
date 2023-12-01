@@ -1,3 +1,7 @@
+<!-- pop will eat itself - psychosexual -->
+### dec 1
+{% include youtube.html id="FGsVEcBbTMk" %}
+---
 <!-- orlandivo - disse me disse -->
 ### nov 30
 {% include youtube.html id="usswA5c4y5I" %}
