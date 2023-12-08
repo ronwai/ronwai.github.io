@@ -1,3 +1,7 @@
+<!-- swamp children - sunny weather -->
+### dec 8
+{% include youtube.html id="wSAxNlW1dDM" %}
+---
 <!-- pop will eat itself - psychosexual -->
 ### dec 1
 {% include youtube.html id="FGsVEcBbTMk" %}
