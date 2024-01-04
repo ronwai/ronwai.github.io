@@ -1,3 +1,7 @@
+<!-- ef - chanel beads -->
+### jan 4
+{% include youtube.html id="hL7S9Dmt0So" %}
+---
 <!-- swamp children - sunny weather -->
 ### dec 8
 {% include youtube.html id="wSAxNlW1dDM" %}
