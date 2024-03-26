@@ -1,3 +1,7 @@
+<!-- sean being - powerless -->
+### mar 26
+{% include youtube.html id="33bZmuc0m9k" %}
+---
 <!-- djavan - fato consumado -->
 ### feb 14
 {% include youtube.html id="l3wGQlw09mM" %}
