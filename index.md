@@ -1,3 +1,7 @@
+<!-- lyra valenza - gameshow -->
+### mar 27
+{% include youtube.html id="ug-_AzJ1YHg" %}
+---
 <!-- sean being - powerless -->
 ### mar 26
 {% include youtube.html id="33bZmuc0m9k" %}
