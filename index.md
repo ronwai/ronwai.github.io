@@ -1,3 +1,7 @@
+<!-- beach boys - big sur -->
+### mar 28
+{% include youtube.html id="PejT7jp7_o0" %}
+---
 <!-- lyra valenza - gameshow -->
 ### mar 27
 {% include youtube.html id="ug-_AzJ1YHg" %}
