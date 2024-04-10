@@ -1,3 +1,7 @@
+<!-- judy singh - look around -->
+### apr 10
+{% include youtube.html id="DwZcfvSxQGU" %}
+---
 <!-- beach boys - big sur -->
 ### mar 28
 {% include youtube.html id="PejT7jp7_o0" %}
