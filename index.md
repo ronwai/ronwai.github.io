@@ -1,3 +1,7 @@
+<!-- cindy lee - whats it going to take -->
+### apr 23
+{% include youtube.html id="D1gUOXhmtMA" %}
+---
 <!-- judy singh - look around -->
 ### apr 10
 {% include youtube.html id="DwZcfvSxQGU" %}
