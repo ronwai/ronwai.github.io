@@ -1,3 +1,7 @@
+<!-- erika casier dj central drive dj sports mix -->
+### jun 8
+{% include youtube.html id="PTNR3tq4JOI" %}
+---
 <!-- earl zinger - untitled -->
 ### jun 4
 {% include youtube.html id="rGCRWMXD930" %}
