@@ -1,7 +1,3 @@
-<!-- jackie onassis - coretexy -->
-### jun 10
-{% include youtube.html id="niWfzjdmzW4&t=51s" %}
----
 <!-- erika casier dj central drive dj sports mix -->
 ### jun 8
 {% include youtube.html id="PTNR3tq4JOI" %}
