@@ -1,3 +1,7 @@
+<!-- head high - power seat -->
+### jul 1
+{% include youtube.html id="A6qefV4ckbk" %}
+---
 <!-- jackie onassis - coretexy -->
 ### jun 10
 {% include youtube.html id="niWfzjdmzW4?start=51" %}
