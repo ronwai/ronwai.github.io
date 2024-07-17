@@ -1,3 +1,7 @@
+<!-- DD3/shed - ATCX -->
+### jul 17
+{% include youtube.html id="c0XQA6G9zpQ" %}
+---
 <!-- head high - power seat -->
 ### jul 1
 {% include youtube.html id="A6qefV4ckbk" %}
