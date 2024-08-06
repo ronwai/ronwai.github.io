@@ -1,3 +1,7 @@
+<!-- the clean - anything could happen -->
+### aug 6
+{% include youtube.html id="GCfTVpp7pAk" %}
+---
 <!-- DD3/shed - ATCX -->
 ### jul 17
 {% include youtube.html id="c0XQA6G9zpQ" %}
