@@ -1,3 +1,7 @@
+<!-- single gun theory - from a million miles -->
+### aug 20
+{% include youtube.html id="ULyJlQdc5QY" %}
+---
 <!-- the clean - anything could happen -->
 ### aug 6
 {% include youtube.html id="GCfTVpp7pAk" %}
