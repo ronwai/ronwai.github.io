@@ -1,3 +1,7 @@
+<!-- cubismo grafico - mississipi one -->
+### aug 21
+{% include youtube.html id="5A0EnCHEHQI" %}
+---
 <!-- single gun theory - from a million miles -->
 ### aug 20
 {% include youtube.html id="ULyJlQdc5QY" %}
