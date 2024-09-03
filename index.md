@@ -1,3 +1,7 @@
+<!-- cocteau - seekers mark clifford mix -->
+### sep 3
+{% include youtube.html id="vJM4Qanq2gQ" %}
+---
 <!-- cubismo grafico - mississipi one -->
 ### aug 21
 {% include youtube.html id="5A0EnCHEHQI" %}
