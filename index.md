@@ -1,3 +1,7 @@
+<!-- disco inferno - summers last sound -->
+### sep 26
+{% include youtube.html id="SLiq9PDdUJ8" %}
+---
 <!-- cocteau - seekers mark clifford mix -->
 ### sep 3
 {% include youtube.html id="vJM4Qanq2gQ" %}
