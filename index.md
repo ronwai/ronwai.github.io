@@ -1,3 +1,7 @@
+<!-- RAL2222 (Radio Edit) · SEES00000 -->
+### nov 4
+{% include youtube.html id="g7_xxMhoun4" %}
+---
 <!-- disco inferno - summers last sound -->
 ### sep 26
 {% include youtube.html id="SLiq9PDdUJ8" %}
