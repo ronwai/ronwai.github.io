@@ -1,3 +1,7 @@
+<!-- mysterytiime thank you deeply -->
+### nov 19
+{% include youtube.html id="OYPhVXdadsM" %}
+---
 <!-- RAL2222 (Radio Edit) · SEES00000 -->
 ### nov 4
 {% include youtube.html id="g7_xxMhoun4" %}
