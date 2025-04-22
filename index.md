@@ -1,3 +1,7 @@
+<!-- spring - chuck it up -->
+### apr 22
+{% include youtube.html id="-HdqlSXv0BM" %}
+---
 <!-- it's a fine line - edit service 8 -->
 ### apr 17
 {% include youtube.html id="u715IvD6vmk" %}
