@@ -1,3 +1,7 @@
+<!-- marsha mason - everybodys talkin -->
+### apr 23
+{% include youtube.html id="UvMBpv-WcTQ" %}
+---
 <!-- spring - chuck it up -->
 ### apr 22
 {% include youtube.html id="-HdqlSXv0BM" %}
