@@ -1,3 +1,7 @@
+<!-- queen of cans and jars - guided by voices -->
+### jun 24
+{% include youtube.html id="vqwwSEF_fzw" %}
+---
 <!-- Auf Engelsflügeln Deutsche Wertarbeit -->
 ### may 25
 {% include youtube.html id="JMKaCruM7bo" %}
