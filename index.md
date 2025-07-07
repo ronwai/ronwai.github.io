@@ -1,3 +1,7 @@
+<!-- makaya mccraven - the jaunt -->
+### jul 7
+{% include youtube.html id="qY__8Cw1yks" %}
+---
 <!-- queen of cans and jars - guided by voices -->
 ### jun 24
 {% include youtube.html id="vqwwSEF_fzw" %}
