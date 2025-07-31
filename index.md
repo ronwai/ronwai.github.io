@@ -1,3 +1,7 @@
+<!-- painter from new york - color filter -->
+### jul 31
+{% include youtube.html id="tST5uJQ-CFY" %}
+---
 <!-- makaya mccraven - the jaunt -->
 ### jul 7
 {% include youtube.html id="qY__8Cw1yks" %}
