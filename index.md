@@ -1,3 +1,7 @@
+<!-- binc rinse repeat - naked flames -->
+### aug 25
+{% include youtube.html id="QUlfPPlVYRQ" %}
+---
 <!-- painter from new york - color filter -->
 ### jul 31
 {% include youtube.html id="tST5uJQ-CFY" %}
