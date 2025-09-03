@@ -1,3 +1,7 @@
+<!-- fela kuti - 2000 blacks -->
+### sep 3
+{% include youtube.html id="7ULE7CPDpMk" %}
+---
 <!-- binc rinse repeat - naked flames -->
 ### aug 25
 {% include youtube.html id="QUlfPPlVYRQ" %}
