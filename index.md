@@ -1,3 +1,7 @@
+<!-- the albees - loose lisp -->
+### oct 15
+{% include bandcamp.html id="4156093245" %}
+---
 <!-- mam - maternite -->
 ### oct 15
 {% include youtube.html id="tBW_9f6da2o" %}
