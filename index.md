@@ -1,3 +1,7 @@
+<!-- been around the world remix mase -->
+### oct 29
+{% include youtube.html id="fer1EFfvDXw" %}
+---
 <!-- the albees - loose lisp -->
 ### oct 15
 {% include bandcamp.html id="4156093245" %}
