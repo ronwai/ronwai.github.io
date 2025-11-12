@@ -1,3 +1,7 @@
+<!-- bona dish - tactile sob -->
+### nov 12
+{% include youtube.html id="tXjXvxsfIys" %}
+---
 <!-- the garden - orange county punk rock legend -->
 ### nov 5
 {% include youtube.html id="1HaEhJ-wvyw" %}
