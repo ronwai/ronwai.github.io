@@ -1,3 +1,7 @@
+<!-- candy - the levitts -->
+### dec 7
+{% include youtube.html id="lv8QfR8LW-c" %}
+---
 <!-- bona dish - tactile sob -->
 ### nov 12
 {% include youtube.html id="tXjXvxsfIys" %}
