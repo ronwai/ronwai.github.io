@@ -1,3 +1,7 @@
+<!-- playing classics - water from your eyes -->
+### dec 26
+{% include youtube.html id="O9AWp8bx-PA" %}
+---
 <!-- candy - the levitts -->
 ### dec 7
 {% include youtube.html id="lv8QfR8LW-c" %}
