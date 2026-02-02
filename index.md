@@ -1,3 +1,7 @@
+<!-- swan lingo - picture perfect -->
+### feb 2
+{% include youtube.html id="Q4FK7nrnejg" %}
+---
 <!-- tagabow - american food -->
 ### jan 26
 {% include youtube.html id="yJMVBpIooMU" %}
