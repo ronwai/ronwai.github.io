@@ -1,3 +1,7 @@
+<!-- the clyde - unction -->
+### may 27
+{% include youtube.html id="oIOJ8oKKoAA" %}
+---
 <!-- old news - big supermarket -->
 ### apr 17
 {% include youtube.html id="s_xO5M9BUZw" %}
