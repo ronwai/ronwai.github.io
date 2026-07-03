@@ -1,3 +1,7 @@
+<!-- Conventional people (Monchan lovers edit) -->
+### jul 3
+{% include youtube.html id="pfKvES5ljJk" %}
+---
 <!-- the clyde - unction -->
 ### may 27
 {% include youtube.html id="oIOJ8oKKoAA" %}
