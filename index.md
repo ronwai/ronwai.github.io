@@ -1,3 +1,7 @@
+<!-- manchester cheirinho bom -->
+### jul 24
+{% include youtube.html id="_Ut-6TSGKvc" %}
+---
 <!-- Conventional people (Monchan lovers edit) -->
 ### jul 3
 {% include youtube.html id="pfKvES5ljJk" %}
