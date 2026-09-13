@@ -1,3 +1,7 @@
+<!-- fools gold top won mix -->
+### sep 13
+{% include youtube.html id="2rmkP1Xek90" %}
+---
 <!-- manchester cheirinho bom -->
 ### jul 24
 {% include youtube.html id="_Ut-6TSGKvc" %}
