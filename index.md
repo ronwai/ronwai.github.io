@@ -1,3 +1,7 @@
+<!-- haloplus musicality -->
+### sep 21
+{% include youtube.html id="tWaLDTDhOHk" %}
+---
 <!-- fools gold top won mix -->
 ### sep 13
 {% include youtube.html id="2rmkP1Xek90" %}
